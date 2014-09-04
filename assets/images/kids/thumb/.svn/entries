@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13005"
+   name=""
+   committed-date="2012-12-05T09:01:08.967893Z"
+   url="http://thor:8080/svn/la/LA%20St%20Marcellins%202012/assets/uploads/children/thumb"
+   last-author="Scott.Harrison"
+   kind="dir"
+   uuid="790983e7-70cf-d040-8675-4558f47472c1"
+   repos="http://thor:8080/svn/la"
+   revision="13007"/>
+<entry
+   committed-rev="13005"
+   name="moses-.JPG"
+   text-time="2012-12-05T10:32:28.768668Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="c7889406cd068d5a4e99eb710ccaf8a0"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.284436Z"/>
+<entry
+   committed-rev="13005"
+   name="talent-.JPG"
+   text-time="2012-12-05T10:32:28.815540Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="530caf0bbcb723bbf439ee11827e1204"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.362557Z"/>
+<entry
+   committed-rev="13005"
+   name="angeline-siwedi.jpg"
+   text-time="2012-12-05T10:32:28.799916Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="33ecaae30b04efc562dd112238b4f78e"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.346933Z"/>
+<entry
+   committed-rev="13005"
+   name="charmaine-.JPG"
+   text-time="2012-12-05T10:32:28.784292Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="d3a8d5bab314618d5e1849138d11618f"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.300060Z"/>
+<entry
+   committed-rev="13005"
+   name="precious-.JPG"
+   text-time="2012-12-05T10:32:28.831165Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="3661806f9be6436008fae61a96cea8d0"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.378181Z"/>
+<entry
+   committed-rev="13005"
+   name="barbara-.JPG"
+   text-time="2012-12-05T10:32:28.862413Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="b11874c31cc0c7b51873bdbc77d836f1"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.409429Z"/>
+<entry
+   committed-rev="13005"
+   name="sharon-.JPG"
+   text-time="2012-12-05T10:32:28.846789Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="7461bf5a9dd9fad2102ee34180060bf6"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.393805Z"/>
+<entry
+   committed-rev="13005"
+   name="kennedy-.JPG"
+   text-time="2012-12-05T10:32:28.862413Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="47e36ce4f103bcf90243132e4841cd37"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.440677Z"/>
+<entry
+   committed-rev="13005"
+   name="bruce-.JPG"
+   text-time="2012-12-05T10:32:28.924909Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="5929133837e339022edb68ad6ffb808a"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.550046Z"/>
+<entry
+   committed-rev="13005"
+   name="carlington-.JPG"
+   text-time="2012-12-05T10:32:28.909285Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="1532ac62d46d6483e31fe807321df575"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.534422Z"/>
+<entry
+   committed-rev="13005"
+   name="munashe-.JPG"
+   text-time="2012-12-05T10:32:28.893661Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="efc88a045c09ce31dbe2847cd9972aea"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.518798Z"/>
+<entry
+   committed-rev="13005"
+   name="primrose-.JPG"
+   text-time="2012-12-05T10:32:28.878037Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="aa86860364395d5cb7ab01f4634d945f"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.456301Z"/>
+<entry
+   committed-rev="13005"
+   name="jonathan-.JPG"
+   text-time="2012-12-05T10:32:28.940533Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="d0812e3dcffbdc31bd9641b43ad4e847"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.628166Z"/>
+<entry
+   committed-rev="13005"
+   name="little-panashe-.JPG"
+   text-time="2012-12-05T10:32:28.956157Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="111c886f116b08b46d2b4c064b42d9c8"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.737535Z"/>
+<entry
+   committed-rev="13005"
+   name="luckymore-.JPG"
+   text-time="2012-12-05T10:32:28.956157Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="c19da658079de41ee8f1c979beccddc0"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.659415Z"/>
+<entry
+   committed-rev="13005"
+   name="dorcas-.JPG"
+   text-time="2012-12-05T10:32:28.971781Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="70e36fea7e5f71c77e2aada8ce2afc84"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.753159Z"/>
+<entry
+   committed-rev="13005"
+   name="miriam-.JPG"
+   text-time="2012-12-05T10:32:28.987406Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="43b67fd630c374b5048a52932b9a4a83"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.784407Z"/>
+<entry
+   committed-rev="13005"
+   name="gina-.JPG"
+   text-time="2012-12-05T10:32:29.003030Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="a56ee99bf28f8ea40fac4d378fbebd56"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.815656Z"/>
+<entry
+   committed-rev="13005"
+   name="peter-.JPG"
+   text-time="2012-12-05T10:32:29.018654Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="6815442d2b8892ce22230209d900cc88"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.846904Z"/>
+<entry
+   committed-rev="13005"
+   name="panashe-.JPG"
+   text-time="2012-12-05T10:32:29.034278Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="b448438b3806acbfa0e6a228883d5c76"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.893776Z"/>
+<entry
+   committed-rev="13005"
+   name="aneck-.JPG"
+   text-time="2012-12-05T10:32:29.049902Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="6a98f801c13d8665a683299d9fd70ab9"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.925024Z"/>
+<entry
+   committed-rev="13005"
+   name="grace-.JPG"
+   text-time="2012-12-05T10:32:29.049902Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="f1b04a07a7470f1c1fe8df84eb6ea823"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.940648Z"/>
+<entry
+   committed-rev="13005"
+   name="shalom-.JPG"
+   text-time="2012-12-05T10:32:29.065526Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="6849c00e502f4ff1d6362a89f2d16b4c"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.971897Z"/>
+<entry
+   committed-rev="13005"
+   name="angie-.JPG"
+   text-time="2012-12-05T10:32:29.081150Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="00ffb3b8c7d7cea4bf4fe608e15165d5"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:26.987521Z"/>
+<entry
+   committed-rev="13005"
+   name="kuda-.JPG"
+   text-time="2012-12-05T10:32:29.096774Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="48fcc2f34988ffc59eb88bf6e34d7b93"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.003145Z"/>
+<entry
+   committed-rev="13005"
+   name="courage-.JPG"
+   text-time="2012-12-05T10:32:29.112398Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="6d7d1a306a09402af6769fe058884999"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.018769Z"/>
+<entry
+   committed-rev="13005"
+   name="nevermind-.JPG"
+   text-time="2012-12-05T10:32:29.128022Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="7c461c02d9eece6a7a8c7612dbbc1c7c"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.034393Z"/>
+<entry
+   committed-rev="13005"
+   name="lovejoy-.JPG"
+   text-time="2012-12-05T10:32:29.128022Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="baaecfd9c6c76893910d19b9ccdcd28b"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.065641Z"/>
+<entry
+   committed-rev="13005"
+   name="nelia-.JPG"
+   text-time="2012-12-05T10:32:29.143647Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="3890383bfb7209e0e3315f5744de85d7"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.096889Z"/>
+<entry
+   committed-rev="13005"
+   name="brian-.JPG"
+   text-time="2012-12-05T10:32:29.159271Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="9644329a1650373bdddcf29def622048"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.112514Z"/>
+<entry
+   committed-rev="13005"
+   name="faith-.JPG"
+   text-time="2012-12-05T10:32:29.174895Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="4c43a64df48351501f74e56ef82be407"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.128138Z"/>
+<entry
+   committed-rev="13005"
+   name="loveness-.JPG"
+   text-time="2012-12-05T10:32:29.190519Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="3067f6db706bf663db3191184afd2a06"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.143762Z"/>
+<entry
+   committed-rev="13005"
+   name="small-faith-.JPG"
+   text-time="2012-12-05T10:32:29.206143Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="7f7d48f3186a55d55cece0e388d0ad51"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.190634Z"/>
+<entry
+   committed-rev="13005"
+   name="irene-.JPG"
+   text-time="2012-12-05T10:32:29.253015Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="6bc09d4458e9d385cd7b903def0d9a8a"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.253130Z"/>
+<entry
+   committed-rev="13005"
+   name="catherine-.JPG"
+   text-time="2012-12-05T10:32:29.237391Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="eff44941c752e736a3b979f2dec52871"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.237506Z"/>
+<entry
+   committed-rev="13005"
+   name="chipo-.JPG"
+   text-time="2012-12-05T10:32:29.221767Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="7524b1254c2771c34e868aa24436dcdc"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.206258Z"/>
+<entry
+   committed-rev="13005"
+   name="emmanuel-.JPG"
+   text-time="2012-12-05T10:32:29.253015Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="7a0e8b35b611dc015fdeb2c754d43bef"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.284379Z"/>
+<entry
+   committed-rev="13005"
+   name="velma-.JPG"
+   text-time="2012-12-05T10:32:29.268639Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="7830ad7e154b4d05652de9e390b11e4e"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.300003Z"/>
+<entry
+   committed-rev="13005"
+   name="norman-tiriboyi.jpg"
+   text-time="2012-12-05T10:32:29.284263Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="9fe29e15516745ec7eb02ab126d784ba"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.315627Z"/>
+<entry
+   committed-rev="13005"
+   name="blessing-.JPG"
+   text-time="2012-12-05T10:32:29.299888Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="83ee06ed57e409d9bebe7c40874945e6"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.534364Z"/>
+<entry
+   committed-rev="13005"
+   name="raymond-.JPG"
+   text-time="2012-12-05T10:32:29.315512Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="f51cd7f9e0c8fcdf2d77a84e0bbc1e21"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.549988Z"/>
+<entry
+   committed-rev="13005"
+   name="faishana-.JPG"
+   text-time="2012-12-05T10:32:29.331136Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="77b66f9dffa2bfe2576f27d5f86bfc0b"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.565612Z"/>
+<entry
+   committed-rev="13005"
+   name="brighton-.JPG"
+   text-time="2012-12-05T10:32:29.346760Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="81797a59a16a72222af0cde84c8bd11b"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.581237Z"/>
+<entry
+   committed-rev="13005"
+   name="ruva-.JPG"
+   text-time="2012-12-05T10:32:29.362384Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="1a8a58a0f580395e3fae37c7912af1c6"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.612485Z"/>
+<entry
+   committed-rev="13005"
+   name="prisca-.JPG"
+   text-time="2012-12-05T10:32:29.378008Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="f7e992d39206e7aa4516e959f0b45253"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.628109Z"/>
+<entry
+   committed-rev="13005"
+   name="simbarashe-mangwenderese.jpg"
+   text-time="2012-12-05T10:32:29.393632Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="c3b3b530f3d08f534d2eac2358c6d67d"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.659357Z"/>
+<entry
+   committed-rev="13005"
+   name="tanyaradzwa-.JPG"
+   text-time="2012-12-05T10:32:29.409256Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="b488b971231437df6e10346a0fbc0962"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.706229Z"/>
+<entry
+   committed-rev="13005"
+   name="brendon-.JPG"
+   text-time="2012-12-05T10:32:29.409256Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="a6aae9747a00cd3d7de1a1f0b6d05719"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.737478Z"/>
+<entry
+   committed-rev="13005"
+   name="norman-.JPG"
+   text-time="2012-12-05T10:32:29.424880Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="af329f1013b4fbdef55537683bcdb55f"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.753102Z"/>
+<entry
+   committed-rev="13005"
+   name="rachel-.JPG"
+   text-time="2012-12-05T10:32:29.440504Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="dae115f65e5520d7467b05edd2e01af5"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.784350Z"/>
+<entry
+   committed-rev="13005"
+   name="spencer-.JPG"
+   text-time="2012-12-05T10:32:29.471753Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="63d8e2c8b32e5e8c4cfad02f7fe82a92"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.831222Z"/>
+<entry
+   committed-rev="13005"
+   name="rachael-.JPG"
+   text-time="2012-12-05T10:32:29.456129Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="577a0a7ff4edd0d9df747c15229a3f80"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.799974Z"/>
+<entry
+   committed-rev="13005"
+   name="mark-duerden.JPG"
+   text-time="2012-12-05T10:32:29.487377Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="aabc970230cffd27b405bf394a7d990f"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.846846Z"/>
+<entry
+   committed-rev="13005"
+   name="marcellina-.JPG"
+   text-time="2012-12-05T10:32:29.503001Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="2f789b4a479d5a35ca64ffeaede9c7b1"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.878094Z"/>
+<entry
+   committed-rev="13005"
+   name="tadiwa-.JPG"
+   text-time="2012-12-05T10:32:29.503001Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="9730d70e0a3baca25293a89f87c2be22"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.909343Z"/>
+<entry
+   committed-rev="13005"
+   name="lisa-chipo.jpg"
+   text-time="2012-12-05T10:32:29.518625Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="1cb50f45962b35f15dbfde8dd9a1d9af"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.956215Z"/>
+<entry
+   committed-rev="13005"
+   name="rumbi-.JPG"
+   text-time="2012-12-05T10:32:29.534249Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="7fe45a066a84544fdae1a5b0a0a62bce"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:27.971839Z"/>
+<entry
+   committed-rev="13005"
+   name="tsitsi-.JPG"
+   text-time="2012-12-05T10:32:29.549873Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="8d0d207c4a60b7c58d3e1ceb49d562b3"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.018711Z"/>
+<entry
+   committed-rev="13005"
+   name="tawanda-.JPG"
+   text-time="2012-12-05T10:32:29.534249Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="61e9cce6d5f2da2d7231235250b193eb"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.003087Z"/>
+<entry
+   committed-rev="13005"
+   name="rosie-.JPG"
+   text-time="2012-12-05T10:32:29.549873Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="68f58c17c92b3d41f89afdb4b774dd2c"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.049960Z"/>
+<entry
+   committed-rev="13005"
+   name="nyasha-.JPG"
+   text-time="2012-12-05T10:32:29.565497Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="6136e82c09374d088c0ad78ca1ab50f9"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.065584Z"/>
+<entry
+   committed-rev="13005"
+   name="lisa-.JPG"
+   text-time="2012-12-05T10:32:29.565497Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="ba050c691c37a945223d6bb988bd082d"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.081208Z"/>
+<entry
+   committed-rev="13005"
+   name="munya-.JPG"
+   text-time="2012-12-05T10:32:29.581121Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="d385c21ed99c41cdff1aa6b2ae737161"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.096832Z"/>
+<entry
+   committed-rev="13005"
+   name="shantal-.JPG"
+   text-time="2012-12-05T10:32:29.581121Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="aa2ac92a40c2c12a8f555188eaecad74"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.128080Z"/>
+<entry
+   committed-rev="13005"
+   name="big-simba-.JPG"
+   text-time="2012-12-05T10:32:29.596745Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="ad46256e677d24c5fc428ff8b489bb84"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.143704Z"/>
+<entry
+   committed-rev="13005"
+   name="simba-.JPG"
+   text-time="2012-12-05T10:32:29.596745Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="73d1fc8ed59ad219f8abcf75d08bd20b"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.143704Z"/>
+<entry
+   committed-rev="13005"
+   name="douglas-.JPG"
+   text-time="2012-12-05T10:32:29.612370Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="b2c14382edad6c8b6beb59bf53e08a74"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.206201Z"/>
+<entry
+   committed-rev="13005"
+   name="walter-.JPG"
+   text-time="2012-12-05T10:32:29.627994Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="d585321344f4660ed0b1f7d5f8220f35"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.268697Z"/>
+<entry
+   committed-rev="13005"
+   name="virginia-magidagida.jpg"
+   text-time="2012-12-05T10:32:29.627994Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="898dddaa90befbc57ff3f3f1b3ba69f7"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.284321Z"/>
+<entry
+   committed-rev="13005"
+   name="tafadzwa-.JPG"
+   text-time="2012-12-05T10:32:29.643618Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="b710f4ea93fba6aad2f76ede95f83017"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.331193Z"/>
+<entry
+   committed-rev="13005"
+   name="shepherd-.JPG"
+   text-time="2012-12-05T10:32:29.643618Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="8326f2d1263eeb6f70d2ea9f92958e6a"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.378066Z"/>
+<entry
+   committed-rev="13005"
+   name="tendai-.JPG"
+   text-time="2012-12-05T10:32:29.659242Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="52e5c46656f44032b34e07ecb875ac98"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.456186Z"/>
+<entry
+   committed-rev="13005"
+   name="sandra-.JPG"
+   text-time="2012-12-05T10:32:29.674866Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="3096c4896145846633a25f53698ae516"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.518683Z"/>
+<entry
+   committed-rev="13005"
+   name="nancy-.JPG"
+   text-time="2012-12-05T10:32:29.674866Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="8652f1c0aa0b8612fe99941cd2cd897b"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.534307Z"/>
+<entry
+   committed-rev="13005"
+   name="todii-.JPG"
+   text-time="2012-12-05T10:32:29.690490Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="80744060cc26b4b961ee4576ff108976"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.549931Z"/>
+<entry
+   committed-rev="13005"
+   name="tino-.JPG"
+   text-time="2012-12-05T10:32:29.690490Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="71939e6db461e2596d20346a12ce1050"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.581179Z"/>
+<entry
+   committed-rev="13005"
+   name="tatenda-girl-.JPG"
+   text-time="2012-12-05T10:32:29.706114Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="55e42e816a54855c42445983ed8e5f4f"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.596803Z"/>
+<entry
+   committed-rev="13005"
+   name="gracious-.JPG"
+   text-time="2012-12-05T10:32:29.721738Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="569cc8f1f5bf1f99d2f91b6bed14b664"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.628051Z"/>
+<entry
+   committed-rev="13005"
+   name="bernard-.JPG"
+   text-time="2012-12-05T10:32:29.721738Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="2ba9f6b6c621a106e580796686ef0cfe"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.628051Z"/>
+<entry
+   committed-rev="13005"
+   name="anna-.JPG"
+   text-time="2012-12-05T10:32:29.737362Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="96cc779f62e1fbd9eb534abefd779dc1"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.659299Z"/>
+<entry
+   committed-rev="13005"
+   name="simbarashe-.JPG"
+   text-time="2012-12-05T10:32:29.737362Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="3814452069a4454c775f6554599a2201"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.674924Z"/>
+<entry
+   committed-rev="13005"
+   name="tatenda-.JPG"
+   text-time="2012-12-05T10:32:29.752986Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="c995837c5867c2bce89f8a2f3699f177"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.706172Z"/>
+<entry
+   committed-rev="13005"
+   name="michelle-.JPG"
+   text-time="2012-12-05T10:32:29.784235Z"
+   committed-date="2012-12-05T09:01:08.967893Z"
+   checksum="c13b2d23adb7b1cd40d9779449e5ba95"
+   last-author="Scott.Harrison"
+   kind="file"
+   prop-time="2012-12-05T10:32:28.753044Z"/>
+</wc-entries>
