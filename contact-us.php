@@ -1,5 +1,5 @@
 <?php
-include('/includes/header.php')
+include('includes/header.php')
 ?>
 
 <div class="container-fluid" id="content">
@@ -19,7 +19,7 @@ include('/includes/header.php')
     		<div class="col-md-6">
                 <div class="row-fluid">
         			<?php
-                    include('/includes/carousel.php')
+                    include('includes/carousel.php')
                     ?>
                 </div>
                 <div class="row-fluid">
@@ -100,10 +100,10 @@ include('/includes/header.php')
     </div>
     </div>
     <?php
-    include('/includes/kids-carousel.php')
+    include('includes/kids-carousel.php')
     ?>
 </div>
 
 <?php
-include('/includes/footer.php')
+include('includes/footer.php')
 ?>

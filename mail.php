@@ -79,7 +79,7 @@
   ?>
 
 <?php
-include('/includes/header.php')
+include('includes/header.php')
 ?>
 
 <div class="container-fluid" id="content">
@@ -98,7 +98,7 @@ include('/includes/header.php')
         <div class="row-fluid clearfix">
             <div class="col-md-6">
                 <?php
-                include('/includes/carousel.php')
+                include('includes/carousel.php')
                 ?>
            </div>
             <div class="col-md-6">
@@ -111,12 +111,12 @@ include('/includes/header.php')
     </div>
     </div>
     <?php
-    include('/includes/kids-carousel.php')
+    include('includes/kids-carousel.php')
     ?>
 </div>
 
 <?php
-include('/includes/footer.php')
+include('includes/footer.php')
 ?>
 </body>
 </html>

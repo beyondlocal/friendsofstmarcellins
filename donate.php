@@ -1,5 +1,5 @@
 <?php
-include('/includes/header.php')
+include('includes/header.php')
 ?>
 
 <div class="container-fluid" id="content">
@@ -18,7 +18,7 @@ include('/includes/header.php')
     	<div class="row-fluid clearfix">
     		<div class="col-md-6">
     			<?php
-                include('/includes/carousel.php')
+                include('includes/carousel.php')
                 ?>
     	   </div>
             <div class="col-md-6">
@@ -66,7 +66,7 @@ include('/includes/header.php')
                             <div id="collapseTwo" class="panel-collapse collapse">
                                 <div class="panel-body">
                                     <p>Whatever you give will be used to provide the children with a loving, healthy environment. You can also do your online shopping at your regular favourites through the Giving Machine and support without paying a penny. Please visit <a href="http://www.TheGivingMachine.co.uk">www.TheGivingMachine.co.uk</a></p>
-                                    <p>Please <a href="/contact-us.php">Contact Us</a> for additional information.</p> 
+                                    <p>Please <a href="contact-us.php">Contact Us</a> for additional information.</p> 
                                 </div>
                             </div>
                         </div>
@@ -122,10 +122,10 @@ include('/includes/header.php')
     </div>
     </div>
     <?php
-    include('/includes/kids-carousel.php')
+    include('includes/kids-carousel.php')
     ?>
 </div>
 
 <?php
-include('/includes/footer.php')
+include('includes/footer.php')
 ?>
