@@ -7,7 +7,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/aneck-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/aneck-.JPG" alt="Aneck"/>
                         	<!-- <div class="child-label">
 								Aneck
 							</div> -->
@@ -18,7 +18,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/angie-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/angie-.JPG" alt="Angie"/>
                         	<!-- <div class="child-label">
 								Angie
 							</div> -->
@@ -29,7 +29,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/anna-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/anna-.JPG" alt="Anna"/>
                         	<!-- <div class="child-label">
 								Anna
 							</div> -->
@@ -40,7 +40,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/barbara-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/barbara-.JPG" alt="Barbara"/>
                         	<!-- <div class="child-label">
 								Barbara
 							</div> -->
@@ -49,7 +49,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/bernard-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/bernard-.JPG" alt="Bernard"/>
                         	<!-- <div class="child-label">
 								Bernard
 							</div> -->
@@ -58,7 +58,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/big-simba-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/big-simba-.JPG" alt="Big Simba"/>
                         	<!-- <div class="child-label">
 								Big Simba
 							</div> -->
@@ -71,7 +71,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/blessing-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/blessing-.JPG" alt="Blessing"/>
                         	<!-- <div class="child-label">
 								Blessing
 							</div> -->
@@ -81,7 +81,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/brendon-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/brendon-.JPG" alt="Brendon"/>
                         	<!-- <div class="child-label">
 								Brendon
 							</div> -->
@@ -91,7 +91,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/brian-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/brian-.JPG" alt="Brian"/>
                         	<!-- <div class="child-label">
 								Brian
 							</div> -->
@@ -101,7 +101,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/brighton-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/brighton-.JPG" alt="Brighton"/>
                         	<!-- <div class="child-label">
 								Brighton
 							</div> -->
@@ -110,7 +110,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/bruce-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/bruce-.JPG" alt="Bruce"/>
                         	<!-- <div class="child-label">
 								Bruce
 							</div> -->
@@ -119,7 +119,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/carlington-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/carlington-.JPG" alt="Carlington"/>
                         	<!-- <div class="child-label">
 								Carlington
 							</div> -->
@@ -133,7 +133,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/catherine-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/catherine-.JPG" alt="Catherine"/>
                         	<!-- <div class="child-label">
 								Catherine
 							</div> -->
@@ -143,7 +143,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/charmaine-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/charmaine-.JPG" alt="Charmaine"/>
                         	<!-- <div class="child-label">
 								Charmaine
 							</div> -->
@@ -153,7 +153,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/chipo-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/chipo-.JPG" alt="Chipo"/>
                         	<!-- <div class="child-label">
 								Chipo
 							</div> -->
@@ -163,7 +163,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/courage-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/courage-.JPG" alt="Courage"/>
                         	<!-- <div class="child-label">
 								Courage
 							</div> -->
@@ -172,7 +172,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/dorcas-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/dorcas-.JPG" alt="Dorcas"/>
                         	<!-- <div class="child-label">
 								Dorcas
 							</div> -->
@@ -181,7 +181,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/douglas-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/douglas-.JPG" alt="Douglas"/>
                         	<!-- <div class="child-label">
 								Douglas
 							</div> -->
@@ -195,7 +195,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/emmanuel-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/emmanuel-.JPG" alt="Emmanuel"/>
                         	<!-- <div class="child-label">
 								Emanuel
 							</div> -->
@@ -205,7 +205,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/faishana-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/faishana-.JPG" alt="Faishana"/>
                         	<!-- <div class="child-label">
 								Faishana
 							</div> -->
@@ -215,7 +215,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/faith-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/faith-.JPG" alt="Fatih"/>
                         	<!-- <div class="child-label">
 								Faith
 							</div> -->
@@ -225,7 +225,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/gina-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/gina-.JPG" alt="Gina"/>
                         	<!-- <div class="child-label">
 								Gina
 							</div> -->
@@ -234,7 +234,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/grace-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/grace-.JPG" alt="Grace"/>
                         	<!-- <div class="child-label">
 								Grace
 							</div> -->
@@ -243,7 +243,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/gracious-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/gracious-.JPG" alt="Gracious"/>
                         	<!-- <div class="child-label">
 								Gracious
 							</div> -->
@@ -257,7 +257,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/jonathan-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/jonathan-.JPG" alt="Jonathon"/>
                         	<!-- <div class="child-label">
 								Jonathan
 							</div> -->
@@ -267,7 +267,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/kennedy-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/kennedy-.JPG" alt="Kennedy"/>
                         	<!-- <div class="child-label">
 								Kennedy
 							</div> -->
@@ -277,7 +277,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/kuda-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/kuda-.JPG" alt="Kuda"/>
                         	<!-- <div class="child-label">
 								Kuda
 							</div> -->
@@ -287,7 +287,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/lisa-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/lisa-.JPG" alt="Lisa"/>
                         	<!-- <div class="child-label">
 								Lisa
 							</div> -->
@@ -296,7 +296,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/little-panashe-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/little-panashe-.JPG" alt="Little Panashe"/>
                         	<!-- <div class="child-label">
 								Little Panashe
 							</div> -->
@@ -305,7 +305,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/lovejoy-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/lovejoy-.JPG" alt="Lovejoy"/>
                         	<!-- <div class="child-label">
 								Lovejoy
 							</div> -->
@@ -319,7 +319,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/loveness-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/loveness-.JPG" alt="Loveness"/>
                         	<!-- <div class="child-label">
 								Loveness
 							</div> -->
@@ -329,7 +329,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/marcellina-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/marcellina-.JPG" alt="Marcellina"/>
                         	<!-- <div class="child-label">
 								Marcellina
 							</div> -->
@@ -339,7 +339,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/michelle-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/michelle-.JPG" alt="Michelle"/>
                         	<!-- <div class="child-label">
 								Michelle
 							</div> -->
@@ -349,7 +349,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/moses-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/moses-.JPG" alt="Moses"/>
                         	<!-- <div class="child-label">
 								Moses
 							</div> -->
@@ -358,7 +358,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/munashe-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/munashe-.JPG" alt="Munashe"/>
                         	<!-- <div class="child-label">
 								Munashe
 							</div> -->
@@ -367,7 +367,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/munya-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/munya-.JPG" alt="Munya"/>
                         	<!-- <div class="child-label">
 								Munya
 							</div> -->
@@ -381,7 +381,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/nancy-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/nancy-.JPG" alt="Nancy"/>
                         	<!-- <div class="child-label">
 								Nancy
 							</div> -->
@@ -391,7 +391,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/nelia-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/nelia-.JPG" alt="Nelia"/>
                         	<!-- <div class="child-label">
 								Nelia
 							</div> -->
@@ -401,7 +401,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/nevermind-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/nevermind-.JPG" alt="Nevermind"/>
                         	<!-- <div class="child-label">
 								Nevermind
 							</div> -->
@@ -411,7 +411,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/norman-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/norman-.JPG" alt="Norman"/>
                         	<!-- <div class="child-label">
 								Norman
 							</div> -->
@@ -420,7 +420,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/nyasha-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/nyasha-.JPG" alt="Nyasha"/>
                         	<!-- <div class="child-label">
 								Nyasha
 							</div> -->
@@ -429,7 +429,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/panashe-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/panashe-.JPG" alt="Panashe"/>
                         	<!-- <div class="child-label">
 								Panashe
 							</div> -->
@@ -443,7 +443,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/peter-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/peter-.JPG" alt="Peter"/>
                         	<!-- <div class="child-label">
 								Peter
 							</div> -->
@@ -453,7 +453,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/precious-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/precious-.JPG" alt="Precious"/>
                         	<!-- <div class="child-label">
 								Precious
 							</div> -->
@@ -463,7 +463,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/primrose-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/primrose-.JPG" alt="Primrose"/>
                         	<!-- <div class="child-label">
 								Primrose
 							</div> -->
@@ -473,7 +473,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/prisca-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/prisca-.JPG" alt="Prisca"/>
                         	<!-- <div class="child-label">
 								Prisca
 							</div> -->
@@ -482,7 +482,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/rachael-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/rachael-.JPG" alt="Rachael"/>
                         	<!-- <div class="child-label">
 								Rachael
 							</div> -->
@@ -491,7 +491,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/rachel-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/rachel-.JPG" alt="Rachel"/>
                         	<!-- <div class="child-label">
 								Rachel
 							</div> -->
@@ -505,7 +505,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/raymond-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/raymond-.JPG" alt="Raymond"/>
                         	<!-- <div class="child-label">
 								Raymond
 							</div> -->
@@ -515,7 +515,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/rosie-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/rosie-.JPG" alt="Rosie"/>
                         	<!-- <div class="child-label">
 								Rosie
 							</div> -->
@@ -525,7 +525,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/rumbi-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/rumbi-.JPG" alt="Rumbi"/>
                         	<!-- <div class="child-label">
 								Rumbi
 							</div> -->
@@ -535,7 +535,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/sandra-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/sandra-.JPG" alt="Sandra"/>
                         	<!-- <div class="child-label">
 								Sandra
 							</div> -->
@@ -544,7 +544,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/shalom-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/shalom-.JPG" alt="Shalom"/>
                         	<!-- <div class="child-label">
 								Shalom
 							</div> -->
@@ -553,7 +553,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/shantal-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/shantal-.JPG" alt="Shantal"/>
                         	<!-- <div class="child-label">
 								Shantal
 							</div> -->
@@ -567,7 +567,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/sharon-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/sharon-.JPG" alt="Sharon"/>
                         	<!-- <div class="child-label">
 								Sharon
 							</div> -->
@@ -577,7 +577,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/shepherd-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/shepherd-.JPG" alt="Shepherd"/>
                         	<!-- <div class="child-label">
 								Shepherd
 							</div> -->
@@ -587,7 +587,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/simba-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/simba-.JPG" alt="Simba"/>
                         	<!-- <div class="child-label">
 								Simba
 							</div> -->
@@ -597,7 +597,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/small-faith-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/small-faith-.JPG" alt="Small Faith"/>
                         	<!-- <div class="child-label">
 								Small Faith
 							</div> -->
@@ -607,7 +607,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/spencer-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/spencer-.JPG" alt="Spencer"/>
                         	<!-- <div class="child-label">
 								Spencer
 							</div> -->
@@ -616,7 +616,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                            <img class="img-responsive" src="/assets/images/kids/thumb/tadiwa-.JPG"/>
+                            <img class="img-responsive" src="/assets/images/kids/thumb/tadiwa-.JPG" alt="Tadiwa"/>
                             <!-- <div class="child-label">
                                 Tadiwa
                             </div> -->
@@ -631,7 +631,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/tafadzwa-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/tafadzwa-.JPG" alt="Tafadzwa"/>
                         	<!-- <div class="child-label">
 								Tafadzwa
 							</div> -->
@@ -641,7 +641,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/talent-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/talent-.JPG" alt="Talent"/>
                         	<!-- <div class="child-label">
 								Talent
 							</div> -->
@@ -651,7 +651,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/tanyaradzwa-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/tanyaradzwa-.JPG" alt="Tanyaradzwa"/>
                         	<!-- <div class="child-label">
 								Tanyaradzwa
 							</div> -->
@@ -660,7 +660,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/tatenda-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/tatenda-.JPG" alt="Tatenda"/>
                         	<!-- <div class="child-label">
 								Tatenda
 							</div> -->
@@ -669,7 +669,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/tatenda-girl-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/tatenda-girl-.JPG" alt="Tatenda Girl"/>
                         	<!-- <div class="child-label">
 								Tatenda Girl
 							</div> -->
@@ -678,7 +678,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                            <img class="img-responsive" src="/assets/images/kids/thumb/tawanda-.JPG"/>
+                            <img class="img-responsive" src="/assets/images/kids/thumb/tawanda-.JPG" alt="Tawanda"/>
                             <!-- <div class="child-label">
                                 Tawanda
                             </div> -->
@@ -693,7 +693,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/tendai-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/tendai-.JPG" alt="Tendai"/>
                         	<!-- <div class="child-label">
 								Tendai
 							</div> -->
@@ -703,7 +703,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/tino-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/tino-.JPG" alt="Tino"/>
                         	<!-- <div class="child-label">
 								Tino
 							</div> -->
@@ -713,7 +713,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/todii-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/todii-.JPG" alt="Todii"/>
                         	<!-- <div class="child-label">
 								Todii
 							</div> -->
@@ -722,7 +722,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/tsitsi-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/tsitsi-.JPG" alt="Tsitsi"/>
                         	<!-- <div class="child-label">
 								Tsitsi
 							</div> -->
@@ -731,7 +731,7 @@
 
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/velma-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/velma-.JPG" alt="Velma"/>
                         	<!-- <div class="child-label">
 								Velma
 							</div> -->
@@ -740,7 +740,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                            <img class="img-responsive" src="/assets/images/kids/thumb/virginia-magidagida.jpg"/>
+                            <img class="img-responsive" src="/assets/images/kids/thumb/virginia-magidagida.jpg" alt="Viginia Magidagida"/>
                             <!-- <div class="child-label">
                                 Virginia
                             </div> -->
@@ -755,7 +755,7 @@
                     <!-- ITEM-->
                     <div class="col-md-2 col-sm-2 col-xs-6">
                         <div class="child-image">
-                        	<img class="img-responsive" src="/assets/images/kids/thumb/walter-.JPG"/>
+                        	<img class="img-responsive" src="/assets/images/kids/thumb/walter-.JPG" alt="Walter"/>
                         	<!-- <div class="child-label">
 								Walter
 							</div> -->

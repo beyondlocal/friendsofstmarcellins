@@ -6,7 +6,7 @@ include('includes/header.php')
 	<div class="row-fluid clearfix header-text">
 		<div class="col-md-6">
 			<a href="/">
-                <img class="img-responsive" src="/assets/images/st-marcellins_logo.jpg">
+                <img class="img-responsive" src="/assets/images/st-marcellins_logo.jpg" alt="FoSMCV Logo">
             </a>
 		</div>
 		<div class="col-md-6">
@@ -98,11 +98,10 @@ include('includes/header.php')
         </div>
         </div>
     </div>
-    </div>
+</div>
     <?php
     include('includes/kids-carousel.php')
     ?>
-</div>
 
 <?php
 include('includes/footer.php')

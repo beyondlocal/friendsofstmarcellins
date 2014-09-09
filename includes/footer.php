@@ -13,7 +13,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="/assets/js/bootstrap.min.js"></script>
-    <script type="text/javascript" language="javascript">
+    <script type="text/javascript">
     $('.carousel.slide').carousel()
 
     $(document).ready(function(){

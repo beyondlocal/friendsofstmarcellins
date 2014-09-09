@@ -86,7 +86,7 @@ include('includes/header.php')
     <div class="row-fluid clearfix header-text">
         <div class="col-md-6">
             <a href="/">
-                <img class="img-responsive" src="/assets/images/st-marcellins_logo.jpg">
+                <img class="img-responsive" src="/assets/images/st-marcellins_logo.jpg" alt="FoSMCV Logo">
             </a>
         </div>
         <div class="col-md-6">
@@ -104,16 +104,15 @@ include('includes/header.php')
             <div class="col-md-6">
                 <div class="content-box">
                     <h2 style="text-align:center; padding-top:80px;">Thank you for your enquiry</h2>
-                    <h3 style="text-align:center; border:none;">We will be in contact very soon.</h3>
+                    <h3 style="text-align:center; border:none;">We will be in contact very soon. In the meantime, to keep in touch with news from St Marcellins, <a href="https://www.facebook.com/StMarcellins"><u>like us</u></a> on Facebook</h3>
                 </div>
             </div>
         </div>
     </div>
-    </div>
+</div>
     <?php
     include('includes/kids-carousel.php')
     ?>
-</div>
 
 <?php
 include('includes/footer.php')
