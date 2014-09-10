@@ -304,7 +304,7 @@
         <div class="col-lg-2 col-md-4 col-xs-6 thumb">
             <figure>
                 <a id="image_1" class="thumbnail" href="/assets/images/kids/original/nelia-.JPG" data-lightbox="image-1" data-title="Nelia">
-                    <img class="img-responsive" src="/assets/images/kids/thumb/Nelia-.JPG" alt="Nelia">
+                    <img class="img-responsive" src="/assets/images/kids/thumb/nelia-.JPG" alt="Nelia">
                 </a>
                 <!-- <figcaption>Nelia</figcaption> -->
             </figure>
@@ -583,7 +583,7 @@
         </div>
         <div class="col-lg-2 col-md-4 col-xs-6 thumb">
             <figure>
-                <a id="image_1" class="thumbnail" href="/assets/images/kids/original/virginia-magidagida.JPG" data-lightbox="image-1" data-title="Virginia">
+                <a id="image_1" class="thumbnail" href="/assets/images/kids/original/virginia-magidagida.jpg" data-lightbox="image-1" data-title="Virginia">
                     <img class="img-responsive" src="/assets/images/kids/thumb/virginia-magidagida.jpg" alt="Virginia">
                 </a>
                 <!-- <figcaption>Virginia</figcaption> -->
