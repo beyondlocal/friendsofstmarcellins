@@ -25,7 +25,7 @@ include('includes/header.php')
                 <div class="row-fluid">
                     <div class="contact-box">
                         <h2>Contact Information</h2>
-                        <p>Friends of St Marcellin&apos;s Children<br><br>1 Tudor Court<br>King Henrys Walk<br>London<br>N1 4NU<br><br>&#x2709;<a href="mailto:stmarcellins@gmail.com">stmarcellins@gmail.com</a></p>
+                        <p>Friends of St Marcellin&apos;s Children<br><br>61 Tudor Court<br>King Henrys Walk<br>London<br>N1 4NU<br><br>&#x2709;<a href="mailto:stmarcellins@gmail.com">stmarcellins@gmail.com</a></p>
                     </div>
                 </div>
     	   </div>
