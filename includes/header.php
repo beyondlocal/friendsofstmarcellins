@@ -23,10 +23,11 @@ $defaultTitle = "Friends of St Marcellins Childrens Village";
 			<div id="desk-nav">
 				<ul id="navigation">
 					<li><h4><a href="/who-are-we.php">Who We Are</a></h4></li>
-					<li><h4><a href="/about-smcv.php">About St Marcellins Childrens Village</a></h4></li>
+					<li><h4><a href="/about-smcv.php">About St Marcellins</a></h4></li>
 					<li><h4><a href="/meet-the-kids.php">Meet the Kids</a></h4></li>
 					<li><h4><a href="/projects.php">Projects</a></h4></li>
 					<li><h4><a href="/how-can-i-help.php">Fundraising</a></h4></li>
+                    <li><h4><a href="/news.php">News</a></h4></li>
 					<li><h4><a href="/contact-us.php">Contact Us</a></h4></li>
 				</ul>
 			</div>
@@ -59,6 +60,7 @@ $defaultTitle = "Friends of St Marcellins Childrens Village";
                         <ul class="nav navbar-nav sec-col pull-right"> <!--col-xs-6 col-sm-8 col-md-8-->
                             <li><h4><a href="/projects.php">Projects</a></h4></li>
 							<li><h4><a href="/how-can-i-help.php">Fundraising</a></h4></li>
+                            <li><h4><a href="/news.php">News</a></h4></li>
 							<li><h4><a href="/contact-us.php">Contact Us</a></h4></li>
                         </ul> 
                     </div>

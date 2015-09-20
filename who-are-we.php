@@ -23,7 +23,7 @@ include('includes/header.php')
     	   </div>
             <div class="col-md-6">
                 <div class="content-box">
-                    <h2>Who We Are</h2>
+                    <h2>News/h2>
                     <p>Friends of St Marcellin's Children set up as a voluntary organisation in 2009 after personal involvement with the village from one of the trustees since 2004. We gained our registration with the Charity Commission in 2010 (registered charity no.1143214). Friends of St Marcellins Children is a completely voluntarily UK run organisation. All donations go 100% to the children's village with no administration costs taken by the charity. Trustee visits are all self funded by those visiting. Trustees are:</p>
                     <ul>
                         <li>Louise Voden (Chair).</li>
