@@ -1,11 +1,6 @@
 <div class="row carousel-holder">
     <div class="col-md-12">
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-            <!-- <ol class="carousel-indicators">
-                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-            </ol> -->
             <div class="carousel-inner">
                 <div class="item active">
                     <img class="slide-image img-responsive" src="/assets/images/carousel/newImage_1.jpg" alt="" style="height:285px; width:725px;">

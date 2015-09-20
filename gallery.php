@@ -149,14 +149,13 @@
                 <!-- <figcaption>Douglas</figcaption> -->
             </figure>
         </div>
-        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+<!--         <div class="col-lg-2 col-md-4 col-xs-6 thumb">
             <figure>
                 <a id="image_1" class="thumbnail" href="/assets/images/kids/original/emmanuel-.JPG" data-lightbox="image-1" data-title="Emanuel">
                     <img class="img-responsive" src="/assets/images/kids/thumb/emmanuel-.JPG" alt="Emanuel">
                 </a>
-                <!-- <figcaption>Emanuel</figcaption> -->
             </figure>
-        </div>
+        </div> -->
         <div class="col-lg-2 col-md-4 col-xs-6 thumb">
             <figure>
                 <a id="image_1" class="thumbnail" href="/assets/images/kids/original/faishana-.JPG" data-lightbox="image-1" data-title="Faishana">
@@ -197,14 +196,13 @@
                 <!-- <figcaption>Gracious</figcaption> -->
             </figure>
         </div>
-        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+<!--         <div class="col-lg-2 col-md-4 col-xs-6 thumb">
             <figure>
                 <a id="image_1" class="thumbnail" href="/assets/images/kids/original/jonathan-.JPG" data-lightbox="image-1" data-title="Jonathan">
                     <img class="img-responsive" src="/assets/images/kids/thumb/jonathan-.JPG" alt="Jonathan">
                 </a>
-                <!-- <figcaption>Jonathan</figcaption> -->
             </figure>
-        </div>
+        </div> -->
         <div class="col-lg-2 col-md-4 col-xs-6 thumb">
             <figure>
                 <a id="image_1" class="thumbnail" href="/assets/images/kids/original/kennedy-.JPG" data-lightbox="image-1" data-title="Kennedy">
@@ -589,14 +587,13 @@
                 <!-- <figcaption>Virginia</figcaption> -->
             </figure>
         </div>
-        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+<!--         <div class="col-lg-2 col-md-4 col-xs-6 thumb">
             <figure>
                 <a id="image_1" class="thumbnail" href="/assets/images/kids/original/walter-.JPG" data-lightbox="image-1" data-title="Walter">
                     <img class="img-responsive" src="/assets/images/kids/thumb/walter-.JPG" alt="Walter">
                 </a>
-                <!-- <figcaption>Walter</figcaption> -->
             </figure>
-        </div>
+        </div> -->
     </div>
 </div>
 </div>
