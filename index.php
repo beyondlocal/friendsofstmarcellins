@@ -59,7 +59,7 @@ include('includes/header.php')
         </div>
         <div class="col-md-3">
             <div id="donate">
-                <a class="btn btn-default" href="/donate.php">Donate</a>
+                <!-- <a class="btn btn-default" href="/donate.php">Donate</a> -->
             </div>
         </div>
     </div>
